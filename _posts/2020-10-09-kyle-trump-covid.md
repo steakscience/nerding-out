@@ -18,6 +18,5 @@ Then we end with conspiracy review, where we discuss whether or not Trump is fak
 
 Recorded on October 4th, 2020.
 
-**Links:**
-[Kyle’s Twitter](https://twitter.com/KDistyping)
-[Kyle’s website](http://kyletypes.com/)
+**Guest:**
+Kyle Detillo, [@KDistyping](https://twitter.com/KDistyping), [website](http://kyletypes.com/)
