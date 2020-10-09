@@ -7,7 +7,7 @@ podcast:
   author: Nirawit Jittipairoj
   email: podcast@steakscience.com
   logo: /assets/cover.jpg # logo in 1400 – 3000 pixel
-  language: "eng" # http://www.loc.gov/standards/iso639-2/php/code_list.php
+  language: "en-us" # http://www.loc.gov/standards/iso639-2/php/code_list.php
   category: "Society &amp; Culture" # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
   subcategory: [subcategory]
   type: episodic # episodic | serial
