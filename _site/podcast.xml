@@ -6,7 +6,7 @@
         <link>http://localhost:4000/</link>
         <itunes:author>Nirawit Jittipairoj</itunes:author>
         <itunes:email>podcast@steakscience.com</itunes:email>
-        <itunes:image href='/assets/cover.jpg'/>
+        <itunes:image href='http://localhost:4000/assets/cover.jpg'/>
         <language>eng</language>
         <copyright>copyright © Nirawit Jittipairoj</copyright>
         <itunes:owner>
@@ -29,8 +29,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>false</itunes:explicit>
             <pubDate>Fri, 09 Oct 2020 00:00:00 +0700</pubDate>
-            <itunes:image>/assets/02/02.jpg</itunes:image>
-            <enclosure url='/assets/02/02.mp3' length=''/>
+            <itunes:image>http://localhost:4000/assets/02/02.jpg</itunes:image>
+            <enclosure url='http://localhost:4000/assets/02/02.mp3' length=''/>
             <description>&lt;p&gt;test&lt;/p&gt;</description>
         </item>
         
@@ -42,8 +42,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>false</itunes:explicit>
             <pubDate>Fri, 09 Oct 2020 00:00:00 +0700</pubDate>
-            <itunes:image>/assets/01/01.jpg</itunes:image>
-            <enclosure url='/assets/01/01.mp3' length=''/>
+            <itunes:image>http://localhost:4000/assets/01/01.jpg</itunes:image>
+            <enclosure url='http://localhost:4000/assets/01/01.mp3' length=''/>
             <description>&lt;p&gt;test&lt;/p&gt;</description>
         </item>
         

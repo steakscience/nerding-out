@@ -10,7 +10,7 @@ layout: null
         <link>{{ '/' | absolute_url }}</link>
         <itunes:author>{{ site.podcast.author }}</itunes:author>
         <itunes:email>{{ site.podcast.email }}</itunes:email>
-        <itunes:image href='{{ site.podcast.logo | relative_url }}'/>
+        <itunes:image href='{{ site.podcast.logo | absolute_url }}'/>
         <language>{{ site.podcast.language }}</language>
         <copyright>copyright © {{ site.podcast.author }}</copyright>
         <itunes:owner>
@@ -33,8 +33,8 @@ layout: null
             <itunes:episodeType>{{ post.episodeType }}</itunes:episodeType>
             <itunes:explicit>{{ post.explicit }}</itunes:explicit>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-            <itunes:image>{{ post.cover | relative_url }}</itunes:image>
-            <enclosure url='{{ post.audio | relative_url }}' length='{{ post.length | xml_escape }}'/>
+            <itunes:image>{{ post.cover | absolute_url }}</itunes:image>
+            <enclosure url='{{ post.audio | absolute_url }}' length='{{ post.length | xml_escape }}'/>
             <description>{{ post.content | xml_escape | strip_newlines }}</description>
         </item>
         {% endfor %}
