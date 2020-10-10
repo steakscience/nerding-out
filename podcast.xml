@@ -34,7 +34,7 @@ layout: null
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <itunes:image href="{{ post.cover | absolute_url }}" />
             <enclosure url='{{ post.audio | absolute_url }}' length='{{ post.length | xml_escape }}'/>
-            <description><![CDATA[{{ post.content | cdata_escape | strip_newlines }}]]></description>
+            <description><![CDATA[{{ post.content | cdata_escape }}]]></description>
         </item>
         {% endfor %}
     </channel>
