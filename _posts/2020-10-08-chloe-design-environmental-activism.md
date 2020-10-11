@@ -16,11 +16,16 @@ In this episode, I talk to Chloe Yeo. She is an amazing designer and also a clim
 
 We also talk about design school, the role that design can play in activism, and cute dogs.
 
+Recorded on May 24th, 2020.
+
 **Links:**
+
 [The Uninhabitable Earth by David Wallace-Wells](https://en.wikipedia.org/wiki/The_Uninhabitable_Earth_(book))
 
 **Guest:**
+
 Chloe Yeo, [@chloyeo](https://twitter.com/chloyeo)
 
 **Music:**
+
 [8-bit version of “We Looked Like Giants” by Death Cab for Cutie](https://soundcloud.com/8bitsongs_1464046229336/we-looked-like-giants)

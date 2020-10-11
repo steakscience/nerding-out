@@ -33,6 +33,7 @@ layout: null
             <itunes:explicit>{{ post.explicit }}</itunes:explicit>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <itunes:image href="{{ post.cover | absolute_url }}" />
+            <guid>{{ post.audio | absolute_url }}</guid>
             <enclosure url='{{ post.audio | absolute_url }}' length='{{ post.length | xml_escape }}'/>
             <description><![CDATA[{{ post.content | cdata_escape }}]]></description>
         </item>

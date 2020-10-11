@@ -19,7 +19,9 @@ Then we end with conspiracy review, where we discuss whether or not Trump is fak
 Recorded on October 4th, 2020.
 
 **Guest:**
+
 Kyle Detillo, [@KDistyping](https://twitter.com/KDistyping), [website](http://kyletypes.com/)
 
 **Music:**
+
 [8-bit version of “Chicago” by Sufjan Stevens](https://www.youtube.com/watch?v=_AgTLnEUKEY)
