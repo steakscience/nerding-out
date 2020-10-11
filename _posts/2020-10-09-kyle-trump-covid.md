@@ -22,6 +22,8 @@ Recorded on October 4th, 2020.
 
 Kyle Detillo, [@KDistyping](https://twitter.com/KDistyping), [website](http://kyletypes.com/)
 
-**Music:**
+**Creditsw:**
 
 [8-bit version of “Chicago” by Sufjan Stevens](https://www.youtube.com/watch?v=_AgTLnEUKEY)
+
+[Photo by Charles Deluvio](https://unsplash.com/photos/rynR1JQzEIY)
