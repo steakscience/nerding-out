@@ -35,7 +35,7 @@ layout: null
             <itunes:image href='{{ post.cover | default: site.podcast.logo | absolute_url }}'/>
             <guid>{{ post.audio | absolute_url }}</guid>
             <enclosure url='{{ post.audio | absolute_url }}' length='{{ post.length | xml_escape }}'/>
-            <description>{{ post.content | cdata_escape }}]]></description>
+            <description><![CDATA[{{ post.content | cdata_escape }}]]></description>
         </item>
         {% endfor %}
     </channel>
